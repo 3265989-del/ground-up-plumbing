@@ -1,2 +1,5 @@
-# ground-up-plumbing
-Ground Up Plumbing website - Hurricane, Utah
+# Ground Up Plumbing
+
+Website for Ground Up Plumbing, Hurricane, Utah.
+
+Deployed via Cloudflare Workers.
