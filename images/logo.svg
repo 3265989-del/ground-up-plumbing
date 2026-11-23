@@ -1,12 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
-  <g transform="translate(20,10)">
-    <path d="M30 20 L30 50 Q30 70 50 70 L70 70 Q90 70 90 50 L90 40 L110 40 L110 60 Q110 80 90 80 L50 80 Q20 80 20 50 L20 20 Z" fill="#1e4d8c"/>
-    <path d="M95 15 L130 35 L130 75 L95 55 Z" fill="#1e4d8c"/>
-    <path d="M115 42 L145 42 L145 55 L115 55 Z" fill="#c45c26"/>
-    <circle cx="130" cy="48" r="6" fill="#c45c26"/>
-    <path d="M125 35 L135 35 L135 42 L125 42 Z" fill="#c45c26"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <g stroke="#f97316" stroke-width="3" fill="none">
+    <line x1="300" y1="40" x2="300" y2="20"/>
+    <line x1="340" y1="50" x2="360" y2="30"/>
+    <line x1="370" y1="80" x2="400" y2="60"/>
+    <line x1="380" y1="120" x2="420" y2="110"/>
+    <line x1="370" y1="160" x2="410" y2="170"/>
+    <line x1="340" y1="190" x2="360" y2="220"/>
+    <line x1="260" y1="190" x2="240" y2="220"/>
+    <line x1="230" y1="160" x2="190" y2="170"/>
+    <line x1="220" y1="120" x2="180" y2="110"/>
+    <line x1="230" y1="80" x2="200" y2="60"/>
+    <line x1="260" y1="50" x2="240" y2="30"/>
   </g>
-  <text x="160" y="55" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#1e4d8c">GROUND</text>
-  <text x="160" y="90" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#c45c26">UP</text>
-  <text x="230" y="90" font-family="Arial, sans-serif" font-size="18" fill="#1e4d8c" letter-spacing="2">PLUMBING</text>
+  <path d="M280 60 L320 60 L320 180 Q320 210 290 210 Q260 210 260 180 L260 160 L290 160 L290 175 Q290 185 300 185 Q310 185 310 175 L310 60 Z" fill="#f97316"/>
+  <path d="M240 140 L280 100 L300 120 L360 60 L380 80 L310 150 L290 130 L250 170 Z" fill="#1e40af"/>
+  <polygon points="370,50 400,70 375,85" fill="#1e40af"/>
+  <text x="300" y="280" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#1e40af">GROUND <tspan fill="#f97316">UP</tspan></text>
+  <text x="300" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#1e40af" letter-spacing="4">PLUMBING</text>
+  <line x1="180" y1="310" x2="230" y2="310" stroke="#f97316" stroke-width="4"/>
+  <line x1="370" y1="310" x2="420" y2="310" stroke="#f97316" stroke-width="4"/>
+  <text x="300" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1e40af">Built from the Ground Up</text>
 </svg>
